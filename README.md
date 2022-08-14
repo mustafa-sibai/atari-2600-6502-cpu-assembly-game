@@ -11,5 +11,6 @@ So in conclusion I want to make a nice small game on the atari 2600 using assemb
 My end goal is to be able to understand how assembly works and create an operating system for ARM CPU
 
 **Resources:**<br>
-6502 Assembler:      https://dasm-assembler.github.io/
+6502 Assembler: https://dasm-assembler.github.io/ 
+<br>
 Atari 2600 Emulator: https://stella-emu.github.io/
